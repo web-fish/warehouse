@@ -644,7 +644,7 @@ body.body--active {
 }
 
 .features-card:nth-child(1) {
-  background: url("/images/features-card_background_1.png") 100% 50% / contain no-repeat;
+  background: url("../images/features-card_background_1.png") 100% 50% / contain no-repeat;
 }
 
 @media screen and (max-width: 1024px) {
@@ -655,7 +655,7 @@ body.body--active {
 }
 
 .features-card:nth-child(2) {
-  background: url("/images/features-card_background_2.png") 100% 50% / contain no-repeat;
+  background: url("../images/features-card_background_2.png") 100% 50% / contain no-repeat;
 }
 
 @media screen and (max-width: 1024px) {
@@ -666,7 +666,7 @@ body.body--active {
 }
 
 .features-card:nth-child(3) {
-  background: url("/images/features-card_background_3.png") 100% 50% / contain no-repeat;
+  background: url("../images/features-card_background_3.png") 100% 50% / contain no-repeat;
 }
 
 @media screen and (max-width: 1024px) {
@@ -677,7 +677,7 @@ body.body--active {
 }
 
 .features-card:nth-child(4) {
-  background: url("/images/features-card_background_4.png") 100% 50% / contain no-repeat;
+  background: url("../images/features-card_background_4.png") 100% 50% / contain no-repeat;
 }
 
 @media screen and (max-width: 1024px) {
